@@ -1,0 +1,17 @@
+.card-wrap{
+    margin: .5em;
+    padding: 1em;
+    box-shadow: 2px 3px 5px black;
+    margin-top: 5em;
+}
+h6{
+    background-color: #F7BE15;
+    padding: .2em;
+    margin-top: .5em;
+    border:1px solid black;
+}
+
+.col {
+    margin-top: 2em;
+    position: absolute;
+}
